@@ -1,12 +1,13 @@
 # HackIT-2018-PWNS
+
 Pwn Challenges I created for HackIT
 
-HashMan (4 solves)
+1. HashMan (4 solves)
 
-KAMIKAZE (8 solves)
+2. KAMIKAZE (8 solves)
 
-Bank Reimplemented (8 solves)
+3. Bank Reimplemented (8 solves)
 
-Heap Interface (12 solves)
+4. Heap Interface (12 solves)
 
-Army (Warmup) (27 solves)
+5. Army (Warmup) (27 solves)
